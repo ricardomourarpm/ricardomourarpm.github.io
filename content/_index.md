@@ -204,14 +204,14 @@ sections:
       text: |-
         Contact Me
       # Contact (add or remove contact options as necessary)
-      email: m.norouzirad@fct.unl.pt
+      email: ricardo.moura.rpm@gmail.com
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
       form:
         provider: formspree
         formspree:
-          id: xdkzkbrk
+          id: xpwrdlka
     design:
       columns: '2'
 ---
