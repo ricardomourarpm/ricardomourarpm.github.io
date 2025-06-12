@@ -52,7 +52,7 @@ url_video: ''
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: - https://link.springer.com/chapter/10.1007/978-3-030-40690-5_8
+  url: https://link.springer.com/chapter/10.1007/978-3-030-40690-5_8
 
 
 # Publication image
