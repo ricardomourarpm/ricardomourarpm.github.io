@@ -54,51 +54,6 @@ sections:
     content:
       title: Education
       date_format: Jan 2006
-      items:
-        - title: Ph.D. in Statistical Inference
-          company: Shahrood University of Technology
-          company_url: 'https://shahroodut.ac.ir/'
-          location: 'Shahrood, Iran'
-          date_start: '2014-09-01'
-          date_end: '2018-12-31'
-          description: |2-
-            **Thesis:** *Improved Estimation Strategies in Some Penalized Regression Models*
-            
-            **Supervisor:** [Prof Mohammad Arashi](https://prof.um.ac.ir/arashi)
-            
-            **Research Impact:**
-            - Presented papers at 7 conferences
-            - Published contributions in 4 journals
-            - Advanced research in penalized regression models
-            
-            [📖 Read Full Thesis](https://www.researchgate.net/publication/376000017_Improved_Estimators_in_Some_Penalized_Linear_Regression_Models)
-          
-        - title: M.Sc. in Mathematical Statistics
-          company: Islamic Azad University, Mashhad Branch
-          location: 'Mashhad, Iran'
-          date_start: '2009-09-01'
-          date_end: '2011-06-30'
-          description: |2-
-            **Thesis:** *On Estimation of Loss Function*
-            
-            **Supervisor:** [Prof Mohammad Arashi](https://prof.um.ac.ir/arashi)
-            **Advisor:** Prof. Hassan Sadeghi
-            
-            **Research Impact:**
-            - Presented papers at 2 conferences
-            - Published contributions in 1 journal
-            - Focus on statistical estimation theory
-            
-        - title: B.Sc. in Pure Mathematics
-          company: Shahrood University of Technology
-          company_url: 'https://shahroodut.ac.ir/'
-          location: 'Shahrood, Iran'
-          date_start: '2004-09-01'
-          date_end: '2008-06-30'
-          description: |2-
-            **Major:** Pure Mathematics
-            
-            Strong foundation in mathematical analysis, algebra, and applied mathematics
     design:
       columns: '2'
   - block: experience
@@ -120,78 +75,6 @@ sections:
           date_end: ''
           description: |2-
             Research focus on statistical inference, machine learning applications, and computational statistics.
-        - title: Post-doctoral Researcher
-          company: Center for Mathematics and Applications (NOVA Math)
-          company_url: https://novamath.fct.unl.pt/
-          company_logo: novamath
-          location: 'Caparica, Portugal'
-          date_start: '2021-03-25'
-          date_end: '2024-04-03'
-          description: |2-
-            Conducted advanced research in shrinkage estimation methods and robust regression techniques.
-        - title: Lecturer
-          company: Shahrood University of Technology
-          company_url: 'https://shahroodut.ac.ir/en/'
-          company_logo: shahrood
-          location: 'Shahrood, Iran'
-          date_start: '2017-09-21'
-          date_end: '2019-07-20'
-          description: |2-
-            Taught various courses in statistics, probability theory, and mathematical modeling.
-        - title: Lecturer
-          company: Neyshabour University
-          company_url: https://en.neyshabur.ac.ir/en
-          company_logo: neyshabur
-          location: 'Neyshabour, Iran'
-          date_start: '2018-09-20'
-          date_end: '2019-07-20'
-          description: |2-
-            Taught undergraduate and graduate courses in statistics and mathematics.
-        - title: Lecturer
-          company: Semnan University
-          company_url: ''
-          company_logo: semnan
-          location: 'Semnan, Iran'
-          date_start: '2018-09-20'
-          date_end: '2019-07-20'
-          description: |2-
-            Delivered lectures in statistical methods and mathematical analysis.
-        - title: Visiting Research Student
-          company: Carleton University
-          company_url: 'https://carleton.ca/'
-          company_logo: carleton
-          location: 'Ottawa, Canada'
-          date_start: '2016-11-01'
-          date_end: '2017-05-01'
-          description: |2-
-            Collaborative research in advanced statistical methodologies under international supervision.
-        - title: Visiting Research Student
-          company: Brock University
-          company_url: 'https://brocku.ca/'
-          company_logo: brock
-          location: 'St. Catharines, Canada'
-          date_start: '2016-05-28'
-          date_end: '2016-10-31'
-          description: |2-
-            Research collaboration focusing on penalized regression models and estimation techniques.
-        - title: Lecturer
-          company: Shahrood University of Technology
-          company_url: 'https://shahroodut.ac.ir/en/'
-          company_logo: shahrood
-          location: 'Shahrood, Iran'
-          date_start: '2014-09-21'
-          date_end: '2016-07-27'
-          description: |2-
-            Taught various courses in statistics, probability theory, and mathematical modeling.
-        - title: Lecturer
-          company: Islamic Azad University, Mashhad Branch
-          company_url: 'https://mashhad.iau.ir/en'
-          company_logo: azad
-          location: 'Mashhad, Iran'
-          date_start: '2011-09-20'
-          date_end: '2013-07-20'
-          description: |2-
-            Early career teaching position covering foundational mathematics and statistics courses.
     design:
       columns: '2'
   - block: accomplishments
@@ -210,26 +93,6 @@ sections:
           icon: kaggle
           organization: Kaggle
           title: Data Cleaning        
-        - certificate_url: https://app.dataquest.io/view_cert/Z24ESCAG9KMHO47MVRCD/
-          date_start: '2022-01-01'
-          icon: dataquest
-          organization: DataQuest
-          title: Data Analyst in R        
-        - certificate_url: https://app.dataquest.io/verify_cert/MMB2DJBGJCRHVP30T5CR/
-          date_start: '2022-01-01'
-          icon: dataquest
-          organization: DataQuest
-          title: Predictive Modeling and Machine Learning in R        
-        - certificate_url: https://drive.google.com/file/d/1pWcGfzaidP4BT2bj5dL8zrp9vX2VW2II/view
-          date_start: '2022-01-01'
-          icon: datacamp
-          organization: DataCamp
-          title: Supervised Learning with scikit-learn          
-        - certificate_url: https://www.credly.com/badges/2a9d0993-84e1-45b5-a6a0-0ae2798641ef/linked_in?t=s0mjyj
-          date_start: '2023-01-01'
-          icon: WQU
-          organization: World Quant University
-          title: Applied Data Science Lab
     design:
       columns: '2'
   - block: collection
@@ -278,8 +141,6 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: App
-          tag: App
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
