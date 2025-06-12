@@ -52,12 +52,6 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Education
-      date_format: Jan 2006
-    design:
-      columns: '2'
-  - block: experience
-    content:
       title: Experience
       date_format: Jan 2006
       # Experiences.
