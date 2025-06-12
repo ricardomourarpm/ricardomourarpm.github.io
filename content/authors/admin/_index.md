@@ -45,18 +45,11 @@ education:
       institution: NOVA FCT
       year: 2016
       summary: |
-        Thesis on _Improved Estimation Strategies in Some Penalized Regression Models_. Supervised by [Prof Mohammad Arashi](https://prof.um.ac.ir/arashi). Presented papers at 7 conferences with the contributions being published in 4 journals.
+        Thesis on _Likelihood-based inference for multivariate regression models using synthetic data_. Supervised by [Prof. Dr. Carlos Agra Coelho](https://www.dm.fct.unl.pt/pessoas/docentes/carlos-manuel-agra-coelho). Presented paper at the first top Statistical journal, *Journal of the American Statistical Association* and 2 conference papers.
       button:
         text: 'Read Thesis'
-        url: 'https://www.researchgate.net/publication/376000017_Improved_Estimators_in_Some_Penalized_Linear_Regression_Models'
-    - course: M.Sc. in 
-      institution: Islamic Azad University, Mashhad Branch
-      year: 2011
-      summary: |
-        Thesis on _On Estimation of Loss Function_. Supervised by [Prof Mohammad Arashi](https://prof.um.ac.ir/arashi). Presented papers at 2 conferences with the contributions being published in 1 journal.
-    - course: B.Sc. in Pure Mathematics
-      institution: Shahrood University of Technology
-      year: 2008
+        url: 'https://run.unl.pt/bitstream/10362/19694/1/Moura_2016.pdf'
+    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
