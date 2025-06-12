@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mina Norouzirad
+title: Ricardo Moura
 
 # Name pronunciation (optional)
-name_pronunciation: MEE-na no-ROO-zee-rad
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Mina
-last_name: Norouzirad
+first_name: Ricardo
+last_name: Pinto Moura
 
 # Status emoji
 status:
@@ -17,40 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Center for Mathematics and Applications (NOVA Math)
     url: https://novamath.fct.unl.pt/
+  - name:  Naval Research Center (CINAV, Centro de Investigação Naval)
+    url: https://escolanaval.marinha.pt/pt/investigacao_web
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
- A dedicated researcher and educator in the field of statistics
-
-
+ A Statistician and researcher at CINAV / NOVA Math; focuses on data privacy and maritime analytics.
 
 # Interests to show in About widget
 interests:
-  - Shrinkage Estimation Methods
-  - Robust Regression Techniques
-  - High-dimensional Statistical Analysis
-  - Machine Learning Applications
-  - Bayesian Statistics
-  - Computational Statistics
+  - Statistical disclosure control & synthetic data
+  - Geospatial and spatio-temporal modelling of maritime phenomena
+  - Decision-support systems, data mining & machine learning (Python / R)
+  - Naval and ocean-related analytics, fisheries, piracy, oil-spill, SST
+  - Teaching and curriculum design in mathematics, statistics and data science
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Statistical Inference
-      institution: Shahrood University of Technology
-      year: 2018
+    - course: Ph.D. in 
+      institution: NOVA FCT
+      year: 2016
       summary: |
         Thesis on _Improved Estimation Strategies in Some Penalized Regression Models_. Supervised by [Prof Mohammad Arashi](https://prof.um.ac.ir/arashi). Presented papers at 7 conferences with the contributions being published in 4 journals.
       button:
         text: 'Read Thesis'
         url: 'https://www.researchgate.net/publication/376000017_Improved_Estimators_in_Some_Penalized_Linear_Regression_Models'
-    - course: M.Sc. in Mathematical Statistics
+    - course: M.Sc. in 
       institution: Islamic Azad University, Mashhad Branch
       year: 2011
       summary: |
@@ -93,55 +92,55 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mina-norouzirad-a1a812a7/
+    link: https://www.linkedin.com/in/ricardo-moura-9070974a/
     label: LinkedIn
     display:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/mnrzrad
+    link: https://github.com/ricardomourarpm
     label: GitHub
     display:
       header: true
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Q0R3sgIAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=pt-PT&user=BHVEFAMAAAAJ
     label: Google Scholar
     display:
       header: true
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0003-0311-6888
+    link: https://orcid.org/0000-0002-3003-9235
     label: ORCID
     display:
       header: true
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Mina-Norouzirad
+    link: https://www.researchgate.net/profile/Ricardo-Moura-4
     label: ResearchGate
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=966732
+    link: https://mathscinet.ams.org/mathscinet/author?authorId=1214412
     label: MathSciNet
     display:
       header: true
   - icon: clarivate
     icon_pack: ai
-    link: https://www.webofscience.com/wos/author/record/1339076
+    link: https://www.webofscience.com/wos/author/record/D-1795-2017
     label: Web of Science
     display:
       header: true
   - icon: scopus
     icon_pack: ai
-    link: https://www.scopus.com/authid/detail.uri?authorId=53878401000
+    link: https://www.scopus.com/authid/detail.uri?authorId=57194139092
     label: Scopus
     display:
       header: true
   - icon: ciencia-vitae
     icon_pack: ai
-    link: https://www.cienciavitae.pt/pt/D915-C82C-8F26
+    link: https://www.cienciavitae.pt/pt/B312-F081-4218
     label: CIÊNCIA ID  
     display:
       header: true
@@ -156,5 +155,4 @@ social:
 highlight_name: true
 ---
 
-Mina Norouzirad is a dedicated researcher and educator in the field of statistics, currently serving as a Junior Researcher at the Center for Mathematics and Applications (NovaMath) in Caparica, Portugal, since April 2024. Previously, she completed a post-doctoral research position at the same institution from March 2021 to March 2024.
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Qm1i4VQUaZG_U0fbYkxC0bb2zyMAT3L0hG8paJjf41Q&cl=ffffff&w=a"></script>
+Ricardo Pinto Moura is a Portuguese mathematician and statistician (PhD, FCT-NOVA, 2016). A Fulbright alumnus, he is an integrated researcher at the Naval Research Center (CINAV) and NOVA Math, and a visiting assistant professor at ISEG. His work spans statistical disclosure control, geospatial data analysis and decision-support systems, with papers in Journal of the American Statistical Association and Scientific Data. He has supervised 14 master’s theses and is currently co-supervising a PhD, while maintaining active roles in national R&D projects and the curation of several maritime data sets.
