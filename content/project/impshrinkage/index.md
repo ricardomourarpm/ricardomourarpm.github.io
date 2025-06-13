@@ -2,8 +2,6 @@
 title: 'ImpShrinkage: Improved Shrinkage Estimations for Multiple Linear Regression'
 
 authors:
-  - Mina Norouzirad
-  - Danial Mazarei
   - admin
 
 date: '2023-01-01'
