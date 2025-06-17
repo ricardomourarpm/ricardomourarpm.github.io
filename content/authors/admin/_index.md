@@ -58,17 +58,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 85
+        percent: 95
         icon: chart-line
         icon_pack: fas
       - name: R Programming
         description: ''
-        percent: 90
+        percent: 75
         icon: r-project
         icon_pack: fab
 
